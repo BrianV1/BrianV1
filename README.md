@@ -12,7 +12,7 @@
 </picture>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,rust,js,react,git,ros,aws,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,rust,js,react,git,ros,aws,vscode,linux" />
 </p>
 
 <p align="center">
