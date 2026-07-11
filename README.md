@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi,%20I'm%20Brian&fontSize=45&animation=fadeIn" />
 </p>
-<h2 style="text-align: center;">ᐠ( ᐛ )ᐟ Im a developer. Interested in all things computer vision, robotics, and cloud!</h2>
+<h3 style="text-align: center;">ᐠ( ᐛ )ᐟ Im a developer. Interested in all things computer vision, robotics, and cloud!</h3>
 
 
 <p align="center">
