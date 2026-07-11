@@ -1,16 +1,15 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi,%20I'm%20Brian&fontSize=45&animation=fadeIn" />
+</p>
+<h2 style="text-align: center;">ᐠ( ᐛ )ᐟ Im a developer. Interested in all things computer vision, robotics, and cloud!</h2>
 
-<!--
-**BrianV1/BrianV1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,rust,js,react,git,ros,aws,vscode" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://linkedin.com/in/brian-viner">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
